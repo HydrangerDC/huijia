@@ -122,12 +122,6 @@
   <p>官网：
   <br>https://www.bole.blue/<br><br>
 
-# 自愿投喂区
-### 微信 Wechat 🧧
-<img src="1111" width="200"> <br>
-### 支付宝 Alipay 🧧
-<img src="11111" width="200"> 
-
 
 
 
